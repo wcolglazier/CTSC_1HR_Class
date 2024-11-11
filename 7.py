@@ -5,4 +5,3 @@ if y > 9:
 
 else:
     print("small")
-
