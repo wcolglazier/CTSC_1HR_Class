@@ -1,6 +1,8 @@
 # pip install openai
 import openai
 
+#sk-
+#proj-sgSm5vZ2zKVBYDp4u80tgi3dtmjo0W_YcDVPC8VL-15MbRLo3ZHu9rXdu7gwP1De1QoLzvAYTDT3BlbkFJ-RQcTwIGeP2FghCjNlQlmcSzJBLzQ0Yq12OxtSE-rWlWOvaXhWeW6GlH3gF-zRvI8Xm1kq00EA
 openai.api_key = "key"
 
 
